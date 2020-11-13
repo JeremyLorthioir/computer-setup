@@ -5,6 +5,7 @@
 - [Git Kraken](https://www.gitkraken.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Koala](http://koala-app.com/)
+- [MySQL Workbench](https://www.mysql.com/fr/products/workbench/)
 
 ### VSC Setup
 
@@ -15,6 +16,8 @@
   
 
 - **Extensions**
+    - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file)
+    - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
     - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
     - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -49,4 +52,5 @@
 }
 ```
 
-### Apache, MySQL, PHP 
+- **Useful links**
+    - [Setup Prettier for ReactJs](https://medium.com/technical-credit/using-prettier-with-vs-code-and-create-react-app-67c2449b9d08)
