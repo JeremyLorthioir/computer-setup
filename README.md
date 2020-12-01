@@ -6,6 +6,8 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Koala](http://koala-app.com/)
 - [MySQL Workbench](https://www.mysql.com/fr/products/workbench/)
+- [7-Zip](https://www.7-zip.fr/)
+- [FileZilla](https://filezilla-project.org/)
 
 ### VSC Setup
 
